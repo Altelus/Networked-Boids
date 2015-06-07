@@ -16,7 +16,7 @@ public class NetworkManager : MonoBehaviour
     private GameObject myFlock;
     private GameObject remoteFlock;
 
-    private const string roomName = "100515125_INFR3830_AS2";
+    private const string roomName = "networked_boids_room1";
     private RoomInfo[] roomsList;
 
     private float simLatency = 0;
